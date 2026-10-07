@@ -1,0 +1,10 @@
+db.sqlite3
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+venv/
+*.log
+# 不上传这两个练习文件夹
+chess-snow-leopard/
+test/
